@@ -1,2 +1,2 @@
-# javascript.courses
-Landing page.
+# Landing page
+
